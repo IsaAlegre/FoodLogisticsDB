@@ -1,10 +1,5 @@
-/*
-	Trabajo Practico 2 Base de datos
-    Alumnos: Alegre Isabella, Becerra Tobias, Benitez Lucia, Klikailo Anahi.
-    Este archivo ya contiene tanto la creacion de la base de datos, sus tablas, la insercion de los datos y las consultas realizadas. 
-*/
-
--- 3. Creacion de la base de datos
+-- 1. Configuracion inicial
+-- 2. Creacion de la base de datos
 
 DROP DATABASE IF EXISTS TP2;
 CREATE DATABASE TP2;
